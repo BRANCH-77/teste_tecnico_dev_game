@@ -69,12 +69,6 @@ O jogo deve ser **vistoso, energético e imediatamente compreensível**, com alv
 
 ---
 
-## Identidade visual (referência)
-
-> Um layout de referência das telas (formato totem 1080×1920, com o logo aplicado) está disponível para os candidatos importarem no Figma e extraírem os assets.
-
----
-
 ## Referências fornecidas (siga-as)
 
 O layout e o comportamento do jogo **já estão definidos** — não é preciso inventar telas nem fluxo. Use as referências abaixo como fonte da verdade:
